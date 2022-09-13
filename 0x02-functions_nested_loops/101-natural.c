@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - count of multiples 
- * of 3 0r 5
+ * main - count of multiples of 3 0r 5
  * Return: return 0
  */
 int main(void)
