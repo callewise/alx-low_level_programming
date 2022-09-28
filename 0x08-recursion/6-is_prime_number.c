@@ -15,7 +15,7 @@ int is_prime_number(int n)
 }
 
 /**
- * _is_prime - tests for prime
+ * is_prime - tests for prime
  * @n: number to test
  * @start: the counter
  * Return: 1 if prime, otherwise 0
